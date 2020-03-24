@@ -82,8 +82,8 @@ limitations under the License.
   <script src="https://www.gstatic.com/firebasejs/7.10.0/firebase-messaging.js"></script>
 
   <script>
-    // Your web app's Firebase configuration
-    var firebaseConfig = {
+    // Initialize Firebase
+    firebase.initializeApp({
       apiKey: "AIzaSyCZyC25ARK35BGd-d5rGFbNSuRkJEWajfQ",
       authDomain: "test-1a69b.firebaseapp.com",
       databaseURL: "https://test-1a69b.firebaseio.com",
@@ -91,9 +91,7 @@ limitations under the License.
       storageBucket: "test-1a69b.appspot.com",
       messagingSenderId: "188441369188",
       appId: "1:188441369188:web:b326ab0f8b040306c65d71"
-    };
-    // Initialize Firebase
-    firebase.initializeApp(firebaseConfig);
+    });
     // [START get_messaging_object]
     // Retrieve Firebase Messaging object.
     const messaging = firebase.messaging();

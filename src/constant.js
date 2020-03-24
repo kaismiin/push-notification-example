@@ -1,7 +1,6 @@
 module.exports = {
   TOKENS: [
-    'eUS_td1wF5zHb38BSlwqHs:APA91bH-3e2gktl4uh0c68YdJZLLmlRkIql7KVRJ-Dv1bxHWap7eJ-tqtkekLiFd9ozJnxDX9fUfi8YrNEz-zepjsrUew1W4W4UM_3QhUP7Dj9TJouO8f5X1b_5-7iEnurSZP5d1-S8D',
-    'db1rni8GENQYBbU3qOVNLu:APA91bGxZ59iUCyVbJjICLoZLm_E3HVzZYm4LfKDDSj1QuzxVMnWZUUYDilRbrdhZ6UGzbaaswwgs3UGg52hOfQ--OHDKQzo6UiXyoX4hGAuOrAeYfP-6wZgkxuJS2r1Q1N3sKBqmA9O',
+    'eUS_td1wF5zHb38BSlwqHs:APA91bE0yyaUNdunLWPZ4Qtd2viGlj5xPVqFSzw3fz-27RfAaw9LWlM3jbLvybYgpPUOrIG8z6FXMgdLXdQxRtm5LSjC2Cutebxw7cHFAH9uRucHC_9CVsoYDpjY1Mt8SFr6m26E8f-J',
   ],
   LINK: 'https://www.asus.com/tw/',
   TITLE: 'Push notification test',
